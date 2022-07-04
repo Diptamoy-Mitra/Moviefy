@@ -1,2 +1,2 @@
-//API OF IMDB
- key="3b6ebd9";
+//Enter the API key recieved on your email here
+key = "12345a6b";
